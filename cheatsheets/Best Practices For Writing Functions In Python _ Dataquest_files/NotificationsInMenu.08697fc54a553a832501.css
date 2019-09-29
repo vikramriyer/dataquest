@@ -1,0 +1,5 @@
+
+.NotificationPanel__root{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-align:stretch;align-items:stretch;min-width:37.5rem}.NotificationPanel__notifications{max-height:50rem;overflow-y:auto}.NotificationPanel__notifications>*{padding:2rem}.NotificationPanel__notifications>:not(:first-child){border-top:1px solid #f8f8fa}.NotificationPanel__options{text-align:right;background-color:#56575d}
+.NotificationItem__header{font-family:ingra,sans-serif;font-weight:400}.wf-loading .NotificationItem__header{word-spacing:1.25px}.NotificationItem__header{color:#7684bc;display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-align:center;align-items:center}.NotificationItem__read{font-size:1.5rem}.NotificationItem__message,.NotificationItem__message p{font-size:2rem}.NotificationItem__message p:last-child{margin-bottom:0}
+
+/*# sourceMappingURL=NotificationsInMenu.08697fc54a553a832501.css.map*/

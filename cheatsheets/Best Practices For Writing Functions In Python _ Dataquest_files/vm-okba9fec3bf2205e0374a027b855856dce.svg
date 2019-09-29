@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>vm-ok</title>
+    <desc>Created with Sketch.</desc>
+    <g id="vm-ok" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="ic_content_copy_24px" fill="#92A2B7">
+                <path d="M14,0 L2,0 C0.9,0 0,0.818181818 0,1.81818182 L0,14.5454545 L2,14.5454545 L2,1.81818182 L14,1.81818182 L14,0 Z M16,2.63636364 L5,2.63636364 C3.9,2.63636364 3,3.38636364 3,4.3030303 L3,15.969697 C3,16.8863636 3.9,17.6363636 5,17.6363636 L16,17.6363636 C17.1,17.6363636 18,16.8863636 18,15.969697 L18,4.3030303 C18,3.38636364 17.1,2.63636364 16,2.63636364 Z M16,15.4545455 L5,15.4545455 L5,6.45454545 L16,6.45454545 L16,15.4545455 Z" id="Shape"></path>
+            </g>
+            <circle id="Oval" fill="#3EDC92" cx="17" cy="17" r="8"></circle>
+            <g id="ic_check_36px" transform="translate(11.000000, 13.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="3.83333333 5.71289322 1.74666667 3.62622655 0.332893219 5.04 3.83333333 8.54044011 10.5404401 1.83333333 9.12666667 0.419559885"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
